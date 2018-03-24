@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Runes_Example' do
+  pod 'Runes', :path => '../'
+
+  target 'Runes_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

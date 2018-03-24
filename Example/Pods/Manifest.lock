@@ -1,0 +1,16 @@
+PODS:
+  - Runes (0.1.0)
+
+DEPENDENCIES:
+  - Runes (from `../`)
+
+EXTERNAL SOURCES:
+  Runes:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Runes: 6f12a6675b661124a6ff16345416846d2af70afe
+
+PODFILE CHECKSUM: 1e91fd7aeabaac9eed30733801dd4a6aeaf998cc
+
+COCOAPODS: 1.5.0.beta.1
